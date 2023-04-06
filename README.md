@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KSYong/KSYong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--div align="center"-->
+
+# **Hello, this is Eric Kwon!**
+
+😃 I'm an iOS Developer in South Korea!
+
+<br>
+
+**Languages and tools**
+
+<img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white"/><img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/><img src="https://img.shields.io/badge/SwiftUI-0886FE?style=round-square&logo=Swift&logoColor=white"/><img src="https://img.shields.io/badge/Xcode-147EFB?style=round-square&logo=Xcode&logoColor=white"/>
+
+<br>
+
+**Projects**
+
+>**Currently working on**
+
+* [MoveYourBody](https://github.com/Swift-Coding-Club/MoveYourBody) - An app to encourage daily exercise / SwiftUI, MVVM
+* [SolsolWeather(솔솔날씨)](https://github.com/ericKwon95/SolsolWeather) - Simple weather app / SwiftUI, MVVM, WeatherKit
+
+>**Participated in**
+* [Kuiz(우리말 띄어쓰기)](https://github.com/Swift-Coding-Club/Level1Kuiz) - Korean spacing quiz app / SwiftUI
+* [Eric's Weather App](https://github.com/ericKwon95/allen_hackathon_level2_Eric) - Simple weather app for Allen School's Hackathon / UIKit, MVC
+
+<br>
+
+**Contacts**
+* email  : ericyong95@gmail.com
+
+<br>
+
+**Github Stats**
+
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericKwon95&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
