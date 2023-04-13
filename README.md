@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 >**Currently working on**
 
+* [목표한방](https://github.com/ObjectOneShot/iOS-ObjectOneShot) - An OKR app to manage your approach to your dreams or goals.
 * [MoveYourBody](https://github.com/Swift-Coding-Club/MoveYourBody) - An app to encourage daily exercise / SwiftUI, MVVM
 * [SolsolWeather(솔솔날씨)](https://github.com/ericKwon95/SolsolWeather) - Simple weather app / SwiftUI, MVVM, WeatherKit
 
