@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # **Hello, this is Eric Kwon!**
 
-😃 I'm an iOS Developer in South Korea!
+😃 I'm an iOS Developer from South Korea!
 
 <br>
 
