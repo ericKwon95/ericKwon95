@@ -31,12 +31,14 @@ Here are some ideas to get you started:
 
 >**Currently working on**
 
+* [어푸어푸](https://github.com/BeHealthy3/PoorGuys) - 거지방을 모티브로 한 커뮤니티 앱 입니다.
 * [메뉴머냐](https://apple.co/3nOuASc) - 강남 지역 한식 뷔페 메뉴 제공 앱 입니다.
-* [목표한방](https://github.com/ObjectOneShot/iOS-ObjectOneShot) - An OKR app to manage your approach to your dreams or goals.
 * [MoveYourBody](https://github.com/Swift-Coding-Club/MoveYourBody) - An app to encourage daily exercise / SwiftUI, MVVM
-* [SolsolWeather(솔솔날씨)](https://github.com/ericKwon95/SolsolWeather) - Simple weather app / SwiftUI, MVVM, WeatherKit
+
 
 >**Participated in**
+* [목표한방](https://github.com/ObjectOneShot/iOS-ObjectOneShot) - An OKR app to manage your approach to your dreams or goals.
+* [SolsolWeather(솔솔날씨)](https://github.com/ericKwon95/SolsolWeather) - Simple weather app / SwiftUI, MVVM, WeatherKit
 * [Kuiz(우리말 띄어쓰기)](https://github.com/Swift-Coding-Club/Level1Kuiz) - Korean spacing quiz app / SwiftUI
 * [Eric's Weather App](https://github.com/ericKwon95/allen_hackathon_level2_Eric) - Simple weather app for Allen School's Hackathon / UIKit, MVC
 
