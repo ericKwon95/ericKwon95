@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <br>
 
-**Github Stats**
+**Portfolio**
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericKwon95&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[iOS Developer 승용](https://kuiz.notion.site/iOS-Developer-538ce6b4fa7b42f9986349ce6146a32d?pvs=4)
