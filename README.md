@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 **Languages and tools**
 
-<img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white"/><img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/><img src="https://img.shields.io/badge/SwiftUI-0886FE?style=round-square&logo=Swift&logoColor=white"/><img src="https://img.shields.io/badge/Xcode-147EFB?style=round-square&logo=Xcode&logoColor=white"/>
+* Swift
+* UIKit / SwiftUI
+* Git / GitHub
 
 <br>
 
@@ -31,16 +33,16 @@ Here are some ideas to get you started:
 
 >**Currently working on**
 
+* [FlipMate](https://github.com/boostcampwm2023/iOS06-FlipMate) - 소셜 기능을 탑재한 타이머 앱 입니다.
 * [어푸어푸](https://github.com/BeHealthy3/PoorGuys) - 거지방을 모티브로 한 커뮤니티 앱 입니다.
-* [메뉴머냐](https://apple.co/3nOuASc) - 강남 지역 한식 뷔페 메뉴 제공 앱 입니다.
-* [MoveYourBody](https://github.com/Swift-Coding-Club/MoveYourBody) - An app to encourage daily exercise / SwiftUI, MVVM
-
 
 >**Participated in**
-* [목표한방](https://github.com/ObjectOneShot/iOS-ObjectOneShot) - An OKR app to manage your approach to your dreams or goals.
-* [SolsolWeather(솔솔날씨)](https://github.com/ericKwon95/SolsolWeather) - Simple weather app / SwiftUI, MVVM, WeatherKit
-* [Kuiz(우리말 띄어쓰기)](https://github.com/Swift-Coding-Club/Level1Kuiz) - Korean spacing quiz app / SwiftUI
-* [Eric's Weather App](https://github.com/ericKwon95/allen_hackathon_level2_Eric) - Simple weather app for Allen School's Hackathon / UIKit, MVC
+* [메뉴머냐](https://apple.co/3nOuASc) - 강남 지역 한식 뷔페 메뉴 제공 앱 입니다. / SwiftUI, MVVM
+* [목표한방](https://github.com/ObjectOneShot/iOS-ObjectOneShot) - OKR 프로세스 기반 목표 관리 앱 입니다. / SwiftUI, MVVM
+* [MoveYourBody](https://github.com/Swift-Coding-Club/MoveYourBody) - 운동 습관 들이기를 도와주는 앱 입니다. / SwiftUI, MVVM
+* [SolsolWeather(솔솔날씨)](https://github.com/ericKwon95/SolsolWeather) - 선택한 위치의 날씨를 알 수 있는 날씨 앱 입니다. / SwiftUI, MVVM, WeatherKit
+* [Kuiz(우리말 띄어쓰기)](https://github.com/Swift-Coding-Club/Level1Kuiz) - 우리말 띄어쓰기 맞추기 게임 앱 입니다. / SwiftUI
+* [Eric's Weather App](https://github.com/ericKwon95/allen_hackathon_level2_Eric) - 앨런스쿨 해커톤 참여중 개발한 간단한 날씨 앱 입니다. / UIKit, MVC
 
 <br>
 
@@ -51,4 +53,4 @@ Here are some ideas to get you started:
 
 **Portfolio**
 
-[iOS Developer 승용](https://kuiz.notion.site/iOS-Developer-538ce6b4fa7b42f9986349ce6146a32d?pvs=4)
+[안녕하세요, 권승용 입니다 😀](https://kuiz.notion.site/96f8d0060b784ec9827eae2ad738d76b?pvs=4)
