@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 >**Currently working on**
 
 * [FlipMate](https://github.com/boostcampwm2023/iOS06-FlipMate) - 소셜 기능을 탑재한 타이머 앱 입니다.
-* [어푸어푸](https://github.com/BeHealthy3/PoorGuys) - 거지방을 모티브로 한 커뮤니티 앱 입니다.
 
 >**Participated in**
 * [메뉴머냐](https://apple.co/3nOuASc) - 강남 지역 한식 뷔페 메뉴 제공 앱 입니다. / SwiftUI, MVVM
