@@ -47,9 +47,3 @@ Here are some ideas to get you started:
 
 **Contacts**
 * email  : ericyong95@gmail.com
-
-<br>
-
-**Portfolio**
-
-[안녕하세요, 권승용 입니다 😀](https://kuiz.notion.site/96f8d0060b784ec9827eae2ad738d76b?pvs=4)
