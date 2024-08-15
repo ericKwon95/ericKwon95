@@ -31,11 +31,8 @@ Here are some ideas to get you started:
 
 **Projects**
 
->**Currently working on**
-
-* [FlipMate](https://github.com/boostcampwm2023/iOS06-FlipMate)
-
 >**Participated in**
+* [FlipMate](https://github.com/boostcampwm2023/iOS06-FlipMate)
 * [메뉴머냐](https://github.com/MenuMonya/MenuMonya-iOS)
 * [목표한방](https://github.com/ObjectOneShot/iOS-ObjectOneShot)
 * [MoveYourBody](https://github.com/Swift-Coding-Club/MoveYourBody)
