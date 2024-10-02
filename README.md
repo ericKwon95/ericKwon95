@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 **Projects**
 
+>**Currently Working on**
+* [클밋](https://github.com/TheClimeet/climeet-iOS)
+* [Cheffi](https://github.com/Cheffi-GitHub/Cheffi-iOS)
+
 >**Participated in**
 * [FlipMate](https://github.com/boostcampwm2023/iOS06-FlipMate)
 * [메뉴머냐](https://github.com/MenuMonya/MenuMonya-iOS)
