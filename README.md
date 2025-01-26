@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 
-**Languages and tools**
+### Languages and tools
 
 * Swift
 * UIKit / SwiftUI
@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <br>
 
-**Projects**
-
+### Projects
+
 * [FlipMate](https://github.com/boostcampwm2023/iOS06-FlipMate)
 * [메뉴머냐](https://github.com/MenuMonya/MenuMonya-iOS)
 * [목표한방](https://github.com/ObjectOneShot/iOS-ObjectOneShot)
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 <br>
 
-**Contacts**
+###Contacts
 * email : ericyong95@gmail.com
 * blog : [Medium](https://medium.com/@ericyong95)
