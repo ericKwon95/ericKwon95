@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 <br>
 
-###Contacts
+### Contacts
 * email : ericyong95@gmail.com
 * blog : [Medium](https://medium.com/@ericyong95)
